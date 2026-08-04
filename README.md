@@ -20,14 +20,12 @@ I have worked on multiple small and medium-scale academic and personal projects,
 
 ### What I am learning right now
 - Writing better and more structured Python code
-- C++ and JavaScript beyond the basics
 - Data structures and algorithms
-- Getting started with AI and Machine Learning through hands-on exploration
+- AI and Machine Learning through hands-on exploration
 
 ### Looking ahead
 My focus going forward is on:
 - Building a strong base in computer science fundamentals  
-- Developing backend-focused and data-driven applications  
 - Writing clean, readable, and well-documented code  
 - Gradually deepening my understanding of AI/ML as I gain more experience
 
