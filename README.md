@@ -4,8 +4,7 @@ I am a Computer Science and Engineering undergraduate at Indira Gandhi Delhi Tec
 Currently, I am focused on strengthening my fundamentals in programming, backend development, and core computer science concepts.
 
 ### Technical background
-- Programming languages: Python, C, HTML, CSS  
-  (currently learning C++ and JavaScript)
+- Programming languages: Python, C, C++, HTML, CSS 
 - Backend and databases: Python–MySQL integration, CRUD operations, PHP–MySQL
 - Web basics: HTTP methods (GET, POST), AJAX (XMLHttpRequest)
 - AI and data: Generative AI and prompt engineering (basics), data handling using Python
